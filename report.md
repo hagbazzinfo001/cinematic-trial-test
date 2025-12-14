@@ -101,4 +101,4 @@ Each section is isolated as a separate component for:
 
 ---
 
-*Created for Front-End Developer Trial Task*
+*Created by Owolabi Agbabiaka for Front-End Developer Trial Task*
