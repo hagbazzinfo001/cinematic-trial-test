@@ -1,7 +1,7 @@
 # Immersive Cinematic UI - Trial Task Report
 
 ## Live Deployment
-[Add your deployed link here]
+https://cinematic-trial-test.vercel.app/
 
 ## Project Overview
 This project recreates the core user interface and scroll-driven experience of the Wakanda Forever "Hall of Zero Limits" website, featuring:
